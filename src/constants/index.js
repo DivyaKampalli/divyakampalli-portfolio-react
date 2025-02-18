@@ -123,8 +123,8 @@ export const PROJECTS = [
     title: "TODO App",
     image: project5,
     description:
-      "Developed a multiplayer Battleships game using Flutter, allowing users to play against AI or other players over a server. The app features a login and registration system for user authentication. Players can view available opponents in a dashboard and join open games hosted on a server. Implemented smooth game mechanics, including ship placement, turn-based attacks, and real-time updates. Designed a responsive UI to ensure a seamless experience across different devices.",
-    technologies: ["Flutter", "Dart", "Hive"],
+      "Developed a cross-platform to-do application using Flutter, designed for mobile, iPad, and desktop. The app enables users to create, manage, and track tasks efficiently, with data persistence powered by Hive, a lightweight NoSQL database. Implemented a clean and responsive UI to ensure a smooth user experience across different screen sizes. Focused on simplicity and performance, allowing users to organize their tasks seamlessly.",
+    technologies: ["Flutter", "Dart", "Hive", "NoSQL"],
   },
   {
     title: "Chicago Crime Analysis",
