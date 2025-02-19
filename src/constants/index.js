@@ -25,7 +25,7 @@ Currently, I am seeking full-time Software Developer roles. Feel free to connect
 
 export const EXPERIENCES = [
   {
-    year: "August 2020 - July 2023",
+    year: "August 2021 - July 2023",
     role: "Software Developer",
     company: "Freshworks",
     description: `Developed a Shopify integration framework for Freshsales Suite CRM, enabling seamless integration of apps like Judge.me, Reviews.io, and Shiprocket with real-time synchronization of customer reviews and shipping data. Additionally, modernized the legacy Profile Services system with a microservices architecture, enhanced webform tracking and social media campaign modules, reduced L2 ticket volume by 80% through proactive issue resolution, and led Agile sprint meetings and Java code reviews to improve development quality and collaboration.`,
@@ -49,7 +49,7 @@ export const EXPERIENCES = [
     technologies: [".NET", "React.js", "Selenium"],
   },
   {
-    year: "March 2019 - September 2019",
+    year: "March 2019 - December 2019",
     role: "Data Science Intern",
     company: "IPSG Systems",
     description: `Worked with fashion retail data, focusing on data cleaning, trend analysis, and pattern identification using R programming. Conducted exploratory data analysis to uncover sales patterns and seasonal trends, enabling data-driven decision-making. Developed visualizations and statistical models to predict consumer demand and optimize inventory management. Collaborated with stakeholders to refine data pipelines, ensuring accurate and efficient data processing for business insights.`,
