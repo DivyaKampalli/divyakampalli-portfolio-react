@@ -25,7 +25,7 @@ Currently, I am seeking full-time Software Developer roles. Feel free to connect
 
 export const EXPERIENCES = [
   {
-    year: "August 2021 - July 2023",
+    year: "November 2021 - July 2023",
     role: "Software Developer",
     company: "Freshworks",
     description: `Developed a Shopify integration framework for Freshsales Suite CRM, enabling seamless integration of apps like Judge.me, Reviews.io, and Shiprocket with real-time synchronization of customer reviews and shipping data. Additionally, modernized the legacy Profile Services system with a microservices architecture, enhanced webform tracking and social media campaign modules, reduced L2 ticket volume by 80% through proactive issue resolution, and led Agile sprint meetings and Java code reviews to improve development quality and collaboration.`,
