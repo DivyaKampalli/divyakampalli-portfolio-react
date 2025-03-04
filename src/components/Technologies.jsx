@@ -6,7 +6,6 @@ import { SiMysql } from "react-icons/si";
 import { SiPython } from "react-icons/si";
 import { FaDartLang } from "react-icons/fa6";
 import { FaFlutter } from "react-icons/fa6";
-import { SiFlask } from "react-icons/si";
 import { FaAws } from "react-icons/fa";
 import { motion } from "framer-motion";
 import { RiTailwindCssFill } from "react-icons/ri";
